@@ -1,0 +1,28 @@
+#menu li>a{
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+
+}
+#menu form>button{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.carrousel-inner{
+    max-height: 39rem;
+}
+
+/* ===================== */
+/* MEDIA QUERIES PARA PANTALLA PEQUEÑA */
+/* ===================== */
+@media(max-width:768px){
+    #intro {
+        width: 90% !important;
+    }
+} 
+
+/* ===================== */
+/* MEDIA QUERIES PARA PANTALLA EXTRA SM */
+/* ===================== */
+
